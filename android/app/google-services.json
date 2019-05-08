@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294903653076",
+    "firebase_url": "https://flutterjob-186fa.firebaseio.com",
+    "project_id": "flutterjob-186fa",
+    "storage_bucket": "flutterjob-186fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294903653076:android:a3647a92771216b0",
+        "android_client_info": {
+          "package_name": "com.henbx.pucukan_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294903653076-v1iiuvj6n185bclaa84juf1f1hamr6t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyA666lQGixxiGMl78c_Z3g7k1Valgu9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294903653076-v1iiuvj6n185bclaa84juf1f1hamr6t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
